@@ -1,8 +1,8 @@
 # Tugas Week 10 — Message History (Chat with AI)
 
-Nama : _(isi nama kamu)_
-NIM  : _(isi NIM kamu)_
-Kelas: _(A/B)_
+Nama : Tasya Maulida Putri
+NIM  : 20240140239
+Kelas: A
 
 Fitur yang ditambahkan: **penyimpanan riwayat percakapan (message history)**
 pada halaman *Chat with AI*, aktif hanya kalau user menyetujui (centang
@@ -185,10 +185,10 @@ Bot bakal nolak dan ngarahin balik ke topik produk — ini yang kejadian karena 
 di `services/gemini.service.js` (`buildSystemInstruction`).
 
 **Bukti testing di Thunder Client**
->Pertanyaan sesuai dgn konteks
+>Pertanyaan sesuai dengan konteks
 <img width="1394" height="977" alt="Screenshot 2026-08-20 150419" src="https://github.com/user-attachments/assets/cbb669e1-8be0-4fa0-aec0-efa389bdce1f" />
 
->Pertanyaan diluar konteks
+>Pertanyaan di luar konteks
 <img width="1397" height="959" alt="image" src="https://github.com/user-attachments/assets/341647e7-5fc8-4137-a26f-8ee02ba985d9" />
 
 ---
