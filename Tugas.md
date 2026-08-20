@@ -1,7 +1,9 @@
 # Tugas Week 10 — Message History (Chat with AI)
 
 Nama : Tasya Maulida Putri
+
 NIM  : 20240140239
+
 Kelas: A
 
 Fitur yang ditambahkan: **penyimpanan riwayat percakapan (message history)**
